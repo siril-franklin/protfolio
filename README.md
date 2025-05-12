@@ -1,1 +1,3 @@
 # protfolio
+
+HELLO CODERS , THIS IS FRANKLIN
